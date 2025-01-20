@@ -1,0 +1,83 @@
+[33mcommit f6440fe2e2b773d169ab52e029719e7fca47df23[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: b021409 913728a
+Author: Adrián Touza <adrian.touza@bahiasoftware.es>
+Date:   Mon Jan 20 18:08:37 2025 +0100
+
+    Merge branch 'main' of github.com:eelrood/prueba_multiple
+
+[33mcommit 913728a7b3ef44d45e54162d69e28196c62e78ef[m[33m ([m[1;31mupstream2/main[m[33m)[m
+Author: Esteban <esteban.vazquez@teslatechnologies.com>
+Date:   Mon Jan 20 18:01:20 2025 +0100
+
+    Añadido fichero
+
+[33mcommit b021409d71880aed560e62e19b6dd191624ea8fd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Adrián Touza <adrian.touza@bahiasoftware.es>
+Date:   Mon Jan 20 18:00:48 2025 +0100
+
+    dos.txt
+
+[33mcommit 7a77338e08f9f38029835b91c61e0af9bd28a988[m
+Merge: 7dc6851 86b3b0e
+Author: eelrood <48965547+eelrood@users.noreply.github.com>
+Date:   Thu Jan 16 18:52:07 2025 +0100
+
+    Merge pull request #1 from eelrood/test
+    
+    Modificado
+
+[33mcommit 86b3b0ebb3c015f8ae7f731753829402f4b0c10c[m
+Author: Esteban <esteban.vazquez@teslatechnologies.com>
+Date:   Thu Jan 16 18:50:57 2025 +0100
+
+    Modificado
+
+[33mcommit 7dc6851e6265b98bfcd8ab943d4aedf203c145c9[m
+Merge: 7369b9a af65007
+Author: Esteban <esteban.vazquez@teslatechnologies.com>
+Date:   Thu Jan 16 18:28:28 2025 +0100
+
+    Fusionando cambios
+
+[33mcommit 7369b9a7d6cd88ba1f85a4d0d54041bca2cec2c8[m
+Author: Esteban <esteban.vazquez@teslatechnologies.com>
+Date:   Thu Jan 16 18:26:49 2025 +0100
+
+    Modificacion fichero
+
+[33mcommit af65007cda20f688a977021dd48e25fb12ab763f[m
+Merge: 7d7b626 02d4e0f
+Author: David Varela Mendoza <david.varela@bahiasoftware.es>
+Date:   Thu Jan 16 18:24:34 2025 +0100
+
+    merge david
+
+[33mcommit 7d7b62639685e388f682af20f7fcee468baba225[m
+Author: David Varela Mendoza <david.varela@bahiasoftware.es>
+Date:   Thu Jan 16 18:22:15 2025 +0100
+
+    commit david
+
+[33mcommit 02d4e0f10d10009f60487a2170b4a07cdfe2a446[m
+Author: Esteban <esteban.vazquez@teslatechnologies.com>
+Date:   Thu Jan 16 18:21:24 2025 +0100
+
+    Modificando fichero david
+
+[33mcommit e5044ff10105999971a37442ad8c872d1ba4973c[m
+Author: David-Bahia <david.varela@bahiasoftware.es>
+Date:   Thu Jan 16 18:12:36 2025 +0100
+
+    Create hola_soy_david
+
+[33mcommit 0aa05612126af8eb290dc6762b8d9ead77f237e1[m
+Author: eelrood <48965547+eelrood@users.noreply.github.com>
+Date:   Thu Jan 16 18:11:25 2025 +0100
+
+    Create test.txt
+
+[33mcommit ba05f190464a58b2e75e0daf1a0960cfe432a555[m
+Author: eelrood <48965547+eelrood@users.noreply.github.com>
+Date:   Thu Jan 16 18:07:40 2025 +0100
+
+    Initial commit
